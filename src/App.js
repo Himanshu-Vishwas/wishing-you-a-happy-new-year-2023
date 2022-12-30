@@ -12,6 +12,7 @@ function App() {
         <Switch>
           <Route path='/wishing-you-a-happy-new-year-2023' component={Home} exact />
           <Route path='/wishing-you-a-happy-new-year-2023/name' component={Search} />
+          <Route path='*' component={Search} />
         </Switch>
       </Router>
     </>
