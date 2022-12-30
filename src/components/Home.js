@@ -9,7 +9,7 @@ const Home = () => {
           <h1>Happy New Year 2023</h1>
           <p>Wishing you a very happy new year.</p>
 
-          <Link to='/name?q=Himanshu' className='btn btn-primary mr-3'>
+          <Link to='/wishing-you-a-happy-new-year-2023/name?q=Himanshu' className='btn btn-primary mr-3'>
             Developer
           </Link>
           

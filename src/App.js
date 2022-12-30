@@ -10,8 +10,8 @@ function App() {
     <>
       <Router history={History}>
         <Switch>
-          <Route path='/' component={Home} exact />
-          <Route path='/name' component={Search} />
+          <Route path='/wishing-you-a-happy-new-year-2023' component={Home} exact />
+          <Route path='/wishing-you-a-happy-new-year-2023/name' component={Search} />
         </Switch>
       </Router>
     </>
