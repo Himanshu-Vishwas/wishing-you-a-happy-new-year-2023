@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd03c3b4ee6295ad7aa19df7120882a0",
+    "revision": "1e02a819cb9b4a3bbcb6aa61f7cbc715",
     "url": "/wishing-you-a-happy-new-year-2023/index.html"
   },
   {
-    "revision": "03be837755fd3c07fc61",
+    "revision": "b521d6dba09d95160934",
     "url": "/wishing-you-a-happy-new-year-2023/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wishing-you-a-happy-new-year-2023/static/js/2.c2f2a4bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03be837755fd3c07fc61",
-    "url": "/wishing-you-a-happy-new-year-2023/static/js/main.f09acdec.chunk.js"
+    "revision": "b521d6dba09d95160934",
+    "url": "/wishing-you-a-happy-new-year-2023/static/js/main.aa6c4ecf.chunk.js"
   },
   {
     "revision": "84fa7edf4b665a629f78",

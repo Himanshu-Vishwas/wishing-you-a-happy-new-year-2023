@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wishing-you-a-happy-new-year-2023/precache-manifest.101d10a0a360161b6b04e36deed93ca7.js"
+  "/wishing-you-a-happy-new-year-2023/precache-manifest.8f8dc431584cdc1eb9a36b9bb06b3b5b.js"
 );
 
 self.addEventListener('message', (event) => {
