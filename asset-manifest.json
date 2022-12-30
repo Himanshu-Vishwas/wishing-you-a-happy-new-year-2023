@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wishing-you-a-happy-new-year-2023/static/css/main.d1b05096.chunk.css",
-    "main.js": "/wishing-you-a-happy-new-year-2023/static/js/main.ba0cd197.chunk.js",
-    "main.js.map": "/wishing-you-a-happy-new-year-2023/static/js/main.ba0cd197.chunk.js.map",
+    "main.js": "/wishing-you-a-happy-new-year-2023/static/js/main.caa4f3cc.chunk.js",
+    "main.js.map": "/wishing-you-a-happy-new-year-2023/static/js/main.caa4f3cc.chunk.js.map",
     "runtime-main.js": "/wishing-you-a-happy-new-year-2023/static/js/runtime-main.0729bc24.js",
     "runtime-main.js.map": "/wishing-you-a-happy-new-year-2023/static/js/runtime-main.0729bc24.js.map",
     "static/js/2.c2f2a4bd.chunk.js": "/wishing-you-a-happy-new-year-2023/static/js/2.c2f2a4bd.chunk.js",
     "static/js/2.c2f2a4bd.chunk.js.map": "/wishing-you-a-happy-new-year-2023/static/js/2.c2f2a4bd.chunk.js.map",
     "index.html": "/wishing-you-a-happy-new-year-2023/index.html",
-    "precache-manifest.c26a9897e618a728dcfa5fecb2148f3c.js": "/wishing-you-a-happy-new-year-2023/precache-manifest.c26a9897e618a728dcfa5fecb2148f3c.js",
+    "precache-manifest.c32fad0a8ab8aa310c47463050ccf67d.js": "/wishing-you-a-happy-new-year-2023/precache-manifest.c32fad0a8ab8aa310c47463050ccf67d.js",
     "service-worker.js": "/wishing-you-a-happy-new-year-2023/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/wishing-you-a-happy-new-year-2023/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.c2f2a4bd.chunk.js.LICENSE.txt": "/wishing-you-a-happy-new-year-2023/static/js/2.c2f2a4bd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0729bc24.js",
     "static/js/2.c2f2a4bd.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ba0cd197.chunk.js"
+    "static/js/main.caa4f3cc.chunk.js"
   ]
 }
