@@ -25,7 +25,7 @@ const Search = ({ location }) => {
     setLanguage(input);
     // add query string to URL
     History.push('/wishing-you-a-happy-new-year-2023/name?q=' + input);
-    var url = 'https://wa.me/?text=Wishing you a very Happy New Year. Have a look!..... https://himanshu-vishwas.github.io/wishing-you-a-happy-new-year-2023/name/'+input;
+    var url = 'https://wa.me/?text=Wishing you a very Happy New Year. Have a look!..... https://himanshu-vishwas.github.io/wishing-you-a-happy-new-year-2023/name?q='+input;
     var win = window.open(url,'_blank');
     win.focus();
     // clear the input
